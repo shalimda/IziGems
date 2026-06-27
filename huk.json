@@ -2,15 +2,15 @@
   "products": {
     "showList": [
       {
-        "name": "Alexandrite Cat's Eye",
+        "name": "Sapphire",
         "link": {
           "url": "/shop/mac/accessories",
-          "text": "Alexandrite Cat's Eye"
+          "text": "Sapphire"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/sapphire4.png",
               "type": "image/png-alpha"
             }
           ],
@@ -21,15 +21,15 @@
         }
       },
       {
-        "name": "Hutto",
+        "name": "Aquamarine",
         "link": {
           "url": "/shop/ipad/accessories",
-          "text": "Hutto"
+          "text": "Aquamarine"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem2.png",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem5.png",
               "type": "image/png-alpha"
             }
           ],
@@ -40,15 +40,15 @@
         }
       },
       {
-        "name": "Square Cusion",
+        "name": "Cymophane",
         "link": {
           "url": "/shop/iphone/accessories",
-          "text": "Square Cusion"
+          "text": "Cymophane"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem3.png",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem6.png",
               "type": "image/png-alpha"
             }
           ],
@@ -59,15 +59,15 @@
         }
       },
       {
-        "name": "Heart Ekak",
+        "name": "Alexandrite",
         "link": {
           "url": "/shop/watch/accessories",
-          "text": "Heart Ekak"
+          "text": "Alexandrite"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem4.png",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem7.png",
               "type": "image/png-alpha"
             }
           ],
@@ -78,15 +78,15 @@
         }
       },
       {
-        "name": "Hutto",
+        "name": "Tourmaline",
         "link": {
           "url": "/shop/vision/accessories",
-          "text": "Hutto"
+          "text": "Tourmaline"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem8.png",
               "type": "image/png-alpha"
             }
           ],
@@ -99,15 +99,15 @@
     ],
     "hideList": [
       {
-        "name": "Hutto",
+        "name": "Tppaz",
         "link": {
           "url": "/shop/airpods/accessories",
-          "text": "Hutto"
+          "text": "Tppaz"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem9.png",
               "type": "image/png-alpha"
             }
           ],
@@ -118,15 +118,15 @@
         }
       },
       {
-        "name": "Hutto",
+        "name": "Amethyst",
         "link": {
           "url": "/shop/smart-home/accessories",
-          "text": "Hutto"
+          "text": "Amethyst"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem10.png",
               "type": "image/png-alpha"
             }
           ],
@@ -145,7 +145,7 @@
         "image": {
           "sources": [
             {
-              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem3.png",
               "type": "image/png-alpha"
             }
           ],
