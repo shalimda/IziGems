@@ -2,15 +2,34 @@
   "products": {
     "showList": [
       {
-        "name": "Hutto",
+        "name": "Alexandrite Cat's Eye",
         "link": {
           "url": "/shop/mac/accessories",
+          "text": "Alexandrite Cat's Eye"
+        },
+        "image": {
+          "sources": [
+            {
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
+              "type": "image/png-alpha"
+            }
+          ],
+          "width": "112",
+          "height": "112",
+          "alt": "",
+          "scaleFactor": "2X"
+        }
+      },
+      {
+        "name": "Hutto",
+        "link": {
+          "url": "/shop/ipad/accessories",
           "text": "Hutto"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/icon-product-mac?wid=225&hei=225&fmt=png-alpha&.v=RXNvWlJ4V1ZvbXYyaGFad0xPTE0zejRlNEtzN04xeVBsalpiTEw5SEcybExnM2hYRFc5SGdWTVhpekFBQlhOTjl5REg3M1hmc2lySnZXVWZqSDY0dWc",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem2.png",
               "type": "image/png-alpha"
             }
           ],
@@ -21,34 +40,15 @@
         }
       },
       {
-        "name": "iPad",
-        "link": {
-          "url": "/shop/ipad/accessories",
-          "text": "iPad"
-        },
-        "image": {
-          "sources": [
-            {
-              "srcSet": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/icon-product-ipad?wid=225&hei=225&fmt=png-alpha&.v=enRKU0hDbTlJSFFNZ1BiODVVVmQ2R3crRGExNTRMQ3JlZGVlTWt4VVV1c0w3OXV2a21IVzZTalA1aGt3Q21GMnZMeG94cFNQN1VnQXZFYXhBd3laQUg1cU1XNzliRmYrYjhjMnhmd2RlR2M",
-              "type": "image/png-alpha"
-            }
-          ],
-          "width": "112",
-          "height": "112",
-          "alt": "",
-          "scaleFactor": "2X"
-        }
-      },
-      {
-        "name": "iPhone",
+        "name": "Square Cusion",
         "link": {
           "url": "/shop/iphone/accessories",
-          "text": "iPhone"
+          "text": "Square Cusion"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/icon-product-iphone?wid=225&hei=225&fmt=png-alpha&.v=a1hQcVRnTVdlaVZPUHFYVE1nVXZMb1pLdVBNS25Jd0pNUlNLMmQwWVFtcUJOT0xId1plRlZlMnByRGNoUWkrWlROUlFrSUpZWjVDUGZPQ3htNjE0V1NBSmo4SnZRWkZYNUVPQWI1cmo5TTA",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem3.png",
               "type": "image/png-alpha"
             }
           ],
@@ -59,15 +59,15 @@
         }
       },
       {
-        "name": "Watch",
+        "name": "Heart Ekak",
         "link": {
           "url": "/shop/watch/accessories",
-          "text": "Watch"
+          "text": "Heart Ekak"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/icon-product-watch?wid=225&hei=225&fmt=png-alpha&.v=OXJsSmJwZHF2NVJid2lSMlZvb2tZZ05PR2d3YXluNDRtakt1ODg2eFRWY0hlMmdwZjdXT2xtODRmTUhJcUZNWlNDbEdjanVwbmtBekVYNFlnRWlMSHhRVTBCdm55OEw1dlFrbldOU28xT0U",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem4.png",
               "type": "image/png-alpha"
             }
           ],
@@ -78,15 +78,15 @@
         }
       },
       {
-        "name": "Apple Vision Pro",
+        "name": "Hutto",
         "link": {
           "url": "/shop/vision/accessories",
-          "text": "Apple Vision Pro"
+          "text": "Hutto"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/icon-product-vision-pro?wid=150&hei=150&fmt=png-alpha&.v=M09HTFZmR2pRK1FCbU5LM2krbkhSVUl6ZnNBazJaeVllZlRsQWU1UVBaSlNmeXM3TEZ3V05LSWVXNHUyemFMeGVsZlBCTGNZaVh1dEVyMGlqVFI1QUlFUmx2ckUzVEpOQjJsK2ZocGhubUk",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
               "type": "image/png-alpha"
             }
           ],
@@ -99,15 +99,15 @@
     ],
     "hideList": [
       {
-        "name": "AirPods",
+        "name": "Hutto",
         "link": {
           "url": "/shop/airpods/accessories",
-          "text": "AirPods"
+          "text": "Hutto"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/icon-product-airpods?wid=225&hei=225&fmt=png-alpha&.v=Q2wvSGF4S2JwTmJCaVlwclhxKzQ0UFBqWFlpWWl3TnZlR2tKNFlHcUk0eGlvVzF3Q2IzdmtJY1RhMGhTZ25pU09DZ2VaNU9haUpKaXQwRmdPcyt2M0R6aENxTzRyTXUrVUlxN21pL2w1MFk",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
               "type": "image/png-alpha"
             }
           ],
@@ -118,15 +118,15 @@
         }
       },
       {
-        "name": "TV & Home",
+        "name": "Hutto",
         "link": {
           "url": "/shop/smart-home/accessories",
-          "text": "TV & Home"
+          "text": "Hutto"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/icon-product-tv?wid=225&hei=225&fmt=png-alpha&.v=K2JKQUsvZmxuVnZZaWkweXAzNXdmMlNFU3NHMDZtczBLZ2FSR0gzZWN4V2JMQkJvZmEyY08xMStaSG9qcHFqRmovM1hkaldYSERrY2dRMXVUczlCSmc",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
               "type": "image/png-alpha"
             }
           ],
@@ -137,15 +137,15 @@
         }
       },
       {
-        "name": "Beats",
+        "name": "Hutto",
         "link": {
           "url": "/shop/accessories/all/beats-featured",
-          "text": "Beats"
+          "text": "Hutto"
         },
         "image": {
           "sources": [
             {
-              "srcSet": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/icon-product-beats?wid=225&hei=225&fmt=png-alpha&.v=aUxCTzg5WlNLNXVMUURCSGl0KzZvWFl2aG9zWmRwQTZYUnNtalp4OTl2SUhlMmdwZjdXT2xtODRmTUhJcUZNWkVKcHRTS3NWRVgxWmpqNXg3K2dhRXhaMFlia0E0WWRkQXkrdmJoVkN6Yzg",
+              "srcSet": "https://raw.githubusercontent.com/shalimda/IziGems/refs/heads/main/gem1.png",
               "type": "image/png-alpha"
             }
           ],
