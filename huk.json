@@ -2,10 +2,10 @@
   "products": {
     "showList": [
       {
-        "name": "Mac",
+        "name": "Hutto",
         "link": {
           "url": "/shop/mac/accessories",
-          "text": "Mac"
+          "text": "Hutto"
         },
         "image": {
           "sources": [
